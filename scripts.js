@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-    strings:["Frontent Developer" , "Vloger" , "AWS Architact"],
+    strings:["Project Management Professional (PMP)","Certified AWS Solution Architact" , "Certified AWS Solution Architact", "Full Stack Developer" , "Automation Testing Framework Engineer"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
