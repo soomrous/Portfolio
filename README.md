@@ -21,3 +21,6 @@ Install below extensions
 10. Better Comments
 11. HTML Snippets
 
+# sites to refer
+1.  Scrollrevealjs.org
+
