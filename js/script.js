@@ -55,7 +55,7 @@ window.onscroll = () => {
   /*==================== typed js ====================*/
 
   const typed = new Typed('.multiple-text', {
-    strings: ['QA Manual & Automation Testing','AWS Certified Solutions Architect - Professional', 'AZURE Certified Solutions Architect Expert ', 'Certified Project Management Professional (PMP)®'],
+    strings: ['QA Manual & Automation Testing', 'Automation Testing Architect', 'AWS Certified Solutions Architect - Professional', 'AZURE Certified Solutions Architect Expert'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
